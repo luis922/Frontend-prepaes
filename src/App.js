@@ -6,6 +6,7 @@ import Menu from './componentes/Menu';
 import Home from './componentes/Home';
 import Register from './componentes/Register';
 import Footer from './componentes/Footer';
+import MenuAdmin from './componentes/MenuAdmin';
 
 function App() {
 
@@ -20,6 +21,7 @@ function App() {
         <Route path='/Register' element={<Register/>} />
         <Route path='/Menu' element={<Menu/>} />
         <Route path='/Menu/Pregunta' element={<Pregunta/>} />
+        <Route path='/MenuAdmin' element={<MenuAdmin/>} />
       </Routes>
       </BrowserRouter>
       <Footer/>
