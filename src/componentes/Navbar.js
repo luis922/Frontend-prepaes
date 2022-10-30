@@ -52,11 +52,6 @@ function Navbar() {
                 Inicio
               </a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link " href="#">
-                Ensayo
-              </a>
-            </li>
           </ul>
 
           <ul class="navbar-nav  ">
