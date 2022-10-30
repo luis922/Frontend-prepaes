@@ -30,12 +30,12 @@ Instrucciones:
 		npm install jquery --save
 		npm install react-katex
     
-4.Para iniciar la página utilizar primero el comando npm start en login-testing y luego en Frontend-prepaes.   
-5. Si por algun motivo al iniciar el sitio web apareciera logeado en una sesión, puede aprovechar de explorar enseguida alguna de las funcionalidades principales, en caso de que esto no ocurra puede partir creando una cuenta o consultando el json que almacena cuentas ya creadas (db.json en login-testing).
+4. Para iniciar la página utilizar primero el comando npm start en login-testing y luego en Frontend-prepaes.   
+5. Si por algun motivo al iniciar el sitio web apareciera logeado en una sesión, puede aprovechar de explorar enseguida alguna de las funcionalidades principales, en caso de    que esto no ocurra puede partir creando una cuenta o consultando el json que almacena cuentas ya creadas (db.json en login-testing).
 		
 
-6.Cuenta Admin
-	Las credenciales para la cuenta Admin son las siguientes:
-		username: adminPaes
+6. Cuenta Admin
+   Las credenciales para la cuenta Admin son las siguientes:
+    username: adminPaes
     mail: adminPaes@gmail.com
     password: 1234
